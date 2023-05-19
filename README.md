@@ -23,6 +23,7 @@ Tourney time is an app used to help manage golf tournaments and display scores t
 ![wireframe of scorecard screen](./img/scorecard.png)
 
 ## Proof of Concept
+Below is a screenshot from the ios simulator that is currently running a React Native app.
 ![screenshot from ios simulator](./img/proof_of_concept.png)
 
 ## Sprints
