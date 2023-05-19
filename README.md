@@ -11,6 +11,7 @@ Tourney time is an app used to help manage golf tournaments and display scores t
 
 ### Frontend -
 - React Native
+- Node.js
 - Expo
 - Javascript
 
