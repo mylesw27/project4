@@ -22,6 +22,9 @@ Tourney time is an app used to help manage golf tournaments and display scores t
 ![wireframe of leaderboard screen](./img/leaderboard.png)
 ![wireframe of scorecard screen](./img/scorecard.png)
 
+## Proof of Concept
+![screenshot from ios simulator](./img/proof_of_concept.png)
+
 ## Sprints
 - Friday - Get Django with Postgres up and running. 
 - Saturday - Set up RESTful routing in Django
@@ -53,11 +56,11 @@ Tourney time is an app used to help manage golf tournaments and display scores t
 | DELETE | /scores                | Delete | Remove a scorecared                        |             |
 
 ## User Stories
-As a user, I want to see players in my tournament
-As a user, I want to be able to track my scores in the app
-As a user, I want to be able to use a scorecard that tracks my score per hole
-As a user, I want to be able to see other user's scores in the same tournament
-As a user, I want to be able to see what how far players are in their round
+As a user, I want to see players in my tournament \
+As a user, I want to be able to track my scores in the app \
+As a user, I want to be able to use a scorecard that tracks my score per hole \
+As a user, I want to be able to see other user's scores in the same tournament \
+As a user, I want to be able to see what how far players are in their round \
 
 ## MVP
 - A mobile app built with the React Native framework
